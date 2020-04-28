@@ -1,0 +1,255 @@
+[INFO ] 2020-04-21 22:57:21.064 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-21 22:57:21.098 [main] Log4jManager - Test Case: getStarted_Dayforce on [GetStarted_DayforceFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-21 22:57:21.288 [main] Log4jManager - Test Case: getStarted_Dayforce on [GetStarted_DayforceFeature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-21 22:57:21.316 [main] Log4jManager - Test Case: getStarted_Dayforce on [GetStarted_DayforceFeature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 15:58:37.277 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 15:58:37.288 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 15:58:41.628 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 15:58:44.940 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 15:58:52.768 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 22:13:46.694 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 22:13:46.706 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 22:13:49.944 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:13:52.044 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:13:56.462 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 22:15:23.092 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 22:15:23.134 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 22:15:27.046 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:15:29.469 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 22:15:35.821 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 22:15:37.459 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:15:41.088 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 22:20:09.917 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 22:20:09.926 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 22:20:14.525 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:20:16.624 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 22:20:21.285 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 22:20:22.405 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:20:28.188 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 22:28:03.547 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 22:28:03.554 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 22:28:08.448 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:28:10.918 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 22:28:13.342 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 22:28:14.789 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:28:18.359 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 22:28:21.136 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 22:28:21.727 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 22:28:23.175 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:28:24.241 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:28:54.843 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 22:33:20.478 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 22:33:20.488 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 22:33:25.211 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:33:27.199 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 22:33:31.757 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 22:33:32.981 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:33:38.310 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 22:33:42.230 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 22:33:42.798 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 22:33:44.289 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:33:45.355 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:34:17.759 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 22:53:21.264 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 22:53:21.274 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 22:53:25.863 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:53:30.695 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 22:53:33.882 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 22:53:34.762 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:53:41.184 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 22:53:45.459 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 22:53:46.303 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 22:53:48.127 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:53:55.499 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 22:54:25.825 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:04:18.229 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 23:04:18.234 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 23:04:20.519 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:04:23.361 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:04:25.958 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 23:04:26.773 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:04:33.196 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 23:04:37.241 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 23:04:37.517 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 23:04:39.474 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:04:46.006 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:05:01.205 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:05:01.245 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:14:54.020 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-04-27 23:14:54.028 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 23:14:55.755 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:14:58.355 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:15:00.629 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 23:15:01.750 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:15:05.671 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 23:15:09.350 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 23:15:09.998 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 23:15:11.495 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:15:16.120 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:15:48.231 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:16:55.327 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-27 23:16:55.341 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 23:16:57.254 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:17:00.066 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:17:02.724 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 23:17:04.196 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:17:08.492 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 23:17:12.118 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 23:17:12.695 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 23:17:13.993 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:17:18.693 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:17:42.780 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:17:42.801 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:20:18.044 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-27 23:20:18.056 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 23:20:19.914 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:20:22.868 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:20:24.603 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 23:20:26.368 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:20:30.172 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 23:20:34.037 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 23:20:34.627 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 23:20:36.231 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:20:40.571 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:21:12.338 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:29:28.944 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-27 23:29:28.964 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 23:29:31.468 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:29:33.466 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:29:35.211 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 23:29:36.436 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:29:40.958 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 23:29:44.853 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 23:29:45.473 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 23:29:46.982 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:29:54.857 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:30:25.085 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-27 23:38:16.484 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-27 23:38:16.497 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-27 23:38:18.094 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:38:21.152 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:38:22.778 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-27 23:38:23.835 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:38:28.176 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-27 23:38:31.815 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-27 23:38:32.285 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-27 23:38:33.590 [main] Log4jManager - we get the web
+[INFO ] 2020-04-27 23:38:37.199 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-27 23:38:37.217 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-04-28 09:38:17.558 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 09:38:17.570 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 09:38:20.156 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:38:22.885 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 09:38:26.577 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 09:38:27.411 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:38:32.468 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 09:38:36.742 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 09:38:37.356 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 09:38:39.100 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:38:45.113 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 09:38:45.313 [main] Log4jManager - Print Seccessful
+[INFO ] 2020-04-28 09:38:45.316 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 09:39:11.361 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 09:39:11.377 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 09:39:12.861 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:39:15.367 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 09:39:17.191 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 09:39:17.805 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:39:22.953 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 09:39:26.666 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 09:39:27.077 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 09:39:29.257 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:39:35.272 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 09:39:35.532 [main] Log4jManager - Print Seccessful
+[INFO ] 2020-04-28 09:39:35.535 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 09:42:11.702 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 09:42:11.717 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 09:42:14.300 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:42:16.209 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 09:42:18.782 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 09:42:19.669 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:42:25.288 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 09:42:29.173 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 09:42:29.796 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 09:42:31.268 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 09:42:36.399 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 09:42:36.627 [main] Log4jManager - Print Seccessfully done
+[INFO ] 2020-04-28 09:42:36.628 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 10:07:10.727 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 10:07:10.740 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 10:07:13.721 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:07:16.436 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:07:21.026 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 10:07:22.770 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:07:28.552 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 10:07:32.670 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 10:07:33.416 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 10:07:35.851 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:07:42.715 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:07:42.961 [main] Log4jManager - Print Seccessfully done
+[INFO ] 2020-04-28 10:07:42.969 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 10:14:52.388 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 10:14:52.400 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 10:14:53.810 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:14:56.716 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:14:58.858 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 10:15:00.144 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:15:05.807 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 10:15:09.441 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 10:15:10.063 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 10:15:11.683 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:15:15.931 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:15:16.067 [main] Log4jManager - Print Seccessfully done:  result is: {JOHN B.=3}
+[INFO ] 2020-04-28 10:15:16.068 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 10:19:58.988 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 10:19:59.001 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 10:20:00.760 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:20:03.249 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:20:06.307 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 10:20:08.114 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:20:11.657 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 10:20:15.581 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 10:20:16.081 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 10:20:17.533 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:20:21.982 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:20:22.111 [main] Log4jManager - Print Seccessfully done:  result is: {JOHN B.=3}
+[INFO ] 2020-04-28 10:20:22.114 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 10:22:29.768 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 10:22:29.781 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 10:22:31.416 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:22:34.285 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:22:38.700 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 10:22:39.965 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:22:45.058 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 10:22:49.612 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 10:22:50.178 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 10:22:51.825 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:22:57.248 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:22:57.429 [main] Log4jManager - Print Seccessfully done:  result is: {JOHN B.=3}
+[INFO ] 2020-04-28 10:22:57.431 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 10:26:19.893 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 10:26:19.908 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 10:26:22.670 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:26:24.618 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:26:28.486 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 10:26:29.474 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:26:34.791 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 10:26:38.591 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 10:26:39.263 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 10:26:40.414 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:26:45.285 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:26:45.595 [main] Log4jManager - Print Seccessfully done:  result is: {JOHN B.=3}
+[INFO ] 2020-04-28 10:26:45.598 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-04-28 10:29:27.675 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-04-28 10:29:27.688 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-04-28 10:29:29.327 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:29:31.938 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:29:36.140 [main] Log4jManager - Click Successful
+[INFO ] 2020-04-28 10:29:37.025 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:29:42.554 [main] Log4jManager - Title Assertion Essecuted 
+[INFO ] 2020-04-28 10:29:46.525 [main] Log4jManager - Search Botton clicked
+[INFO ] 2020-04-28 10:29:46.901 [main] Log4jManager - First Result clicked
+[INFO ] 2020-04-28 10:29:48.406 [main] Log4jManager - we get the web
+[INFO ] 2020-04-28 10:29:54.140 [main] Log4jManager - Title Asserted
+[INFO ] 2020-04-28 10:29:54.328 [main] Log4jManager - Print Seccessfully done:  result is: {JOHN B.=3}
+[INFO ] 2020-04-28 10:29:54.331 [main] Log4jManager - Test Case: findWorkShopFeatureTest on [FindaStudio_feature passed=0 failed=0 skipped=0] Passed

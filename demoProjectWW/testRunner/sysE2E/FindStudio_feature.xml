@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+
+<suite name="Yashar WW_FindStudio_feature"  parallel = "none">
+
+
+	<test name="WW Find Studio Link Functionality">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="testCase.sysE2E.FindaStudio_feature" />
+		</classes>
+	</test> <!-- WW Test -->
+
+
+
+
+
+	<!-- Test listener -->
+	<listeners>
+		<listener class-name="utilities.reportRelated.TestListener" />
+	</listeners>
+
+
+
+
+
+
+
+</suite>

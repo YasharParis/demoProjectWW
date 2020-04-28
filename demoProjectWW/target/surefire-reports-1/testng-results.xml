@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yashar WW_FindStudio_feature" duration-ms="34446" started-at="2020-04-28T14:29:20Z" finished-at="2020-04-28T14:29:55Z">
+    <groups>
+    </groups>
+    <test name="WW Find Studio Link Functionality" duration-ms="34446" started-at="2020-04-28T14:29:20Z" finished-at="2020-04-28T14:29:55Z">
+      <class name="testCase.sysE2E.FindaStudio_feature">
+        <test-method status="PASS" signature="beforeAllTestCase()[pri:0, instance:[FindaStudio_feature passed=0 failed=0 skipped=0]]" name="beforeAllTestCase" is-config="true" duration-ms="441" started-at="2020-04-28T14:29:20Z" finished-at="2020-04-28T14:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.String)[pri:0, instance:[FindaStudio_feature passed=0 failed=0 skipped=0]]" name="beforeEachTestCase" is-config="true" duration-ms="6225" started-at="2020-04-28T14:29:21Z" finished-at="2020-04-28T14:29:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="findWorkShopFeatureTest()[pri:0, instance:[FindaStudio_feature passed=0 failed=0 skipped=0]]" name="findWorkShopFeatureTest" duration-ms="26643" started-at="2020-04-28T14:29:27Z" finished-at="2020-04-28T14:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findWorkShopFeatureTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[FindaStudio_feature passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="414" started-at="2020-04-28T14:29:54Z" finished-at="2020-04-28T14:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterAllTestCase()[pri:0, instance:[FindaStudio_feature passed=0 failed=0 skipped=0]]" name="afterAllTestCase" is-config="true" duration-ms="677" started-at="2020-04-28T14:29:54Z" finished-at="2020-04-28T14:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCase -->
+      </class> <!-- testCase.sysE2E.FindaStudio_feature -->
+    </test> <!-- WW Find Studio Link Functionality -->
+  </suite> <!-- Yashar WW_FindStudio_feature -->
+</testng-results>
